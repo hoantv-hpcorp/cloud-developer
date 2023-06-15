@@ -48,5 +48,7 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 
-// Output URL
+### Project Output
+Github repo: https://github.com/hoantv-hpcorp/cloud-developer
+
 http://image-filter-starter-code-dev22222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
